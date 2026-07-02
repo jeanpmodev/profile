@@ -17,6 +17,8 @@ delivering reports from urls and estimate reading time from webpages.
 it professional networking with 3000 it services and companies 
 * [`Tiaplicada`](https://tiaplicada.com.br)
 personal brasilian website portfolio
+* [`Django Octo`](https://github.com/jeanpmodev/django-octo)
+A module to improve the quality of development using Django.
 
 ## SaaS:
 * [`free TSL security checker`](https://readtime.pro/check-security/)
@@ -148,9 +150,15 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://github-readme-stats.vercel.app/api?username=jeanpmodev&show_icons=true&theme=onedark)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpmodev&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeanpmodev&theme=highcontrast&hide_border=false)<br/>
 
+## 🏆 GitHub Stat Trophies
+### jeanpmodev github profile 
+![](https://github-trophies.vercel.app/?username=jeanpmodev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+### jeancarlosti github profile 
+![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+---
 
 
 ![](https://github-trophies.vercel.app/?username=jeanpmodev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
