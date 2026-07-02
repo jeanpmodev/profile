@@ -160,8 +160,3 @@ Database Admin  side solve Feature implementation or issue if :
 ![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 ---
 
-
-![](https://github-trophies.vercel.app/?username=jeanpmodev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=jeanpmodev&icon=0&color=5)](https://visitcount.itsvg.in)
