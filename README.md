@@ -153,9 +153,11 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeanpmodev&theme=highcontrast&hide_border=false)<br/>
 
-## 🏆 GitHub Stat Trophies
+## 🏆 Github Stat Trophies
 ### jeanpmodev github profile 
 ![](https://github-trophies.vercel.app/?username=jeanpmodev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+* The term "sssrank hacker" is not an official metric, ranking category, or scoring system recognized on platforms like GitHub or in global security competitions. Therefore, there is no official list or number of repositories with this status.
+
 ### jeancarlosti github profile 
 ![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 ---
