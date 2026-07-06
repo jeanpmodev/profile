@@ -167,7 +167,5 @@ Database Admin  side solve Feature implementation or issue if :
 ### jeancarlosti github profile 
 ![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 ---
-### jeancarlosti github profile 
-![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
----
+
 
