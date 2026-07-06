@@ -1,3 +1,4 @@
+
 # Jean Carlos  
 ## Developer | Product Manager Owner  🧢
 
@@ -157,6 +158,10 @@ Database Admin  side solve Feature implementation or issue if :
 ### jeanpmodev github profile 
 ![](https://github-trophies.vercel.app/?username=jeanpmodev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 * The term "sssrank hacker" is not an official metric, ranking category, or scoring system recognized on platforms like GitHub or in global security competitions. Therefore, there is no official list or number of repositories with this status.
+
+
+#### ![Introduction to GitHub Advanced Security](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg) [Introduction to GitHub Advanced Security](https://learn.microsoft.com/en-us/users/jeancarlos-2960/achievements/d38tmrkj)  
+
 
 ### jeancarlosti github profile 
 ![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
