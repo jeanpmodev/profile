@@ -161,8 +161,12 @@ Database Admin  side solve Feature implementation or issue if :
 
 
 #### ![Introduction to GitHub Advanced Security](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg) [Introduction to GitHub Advanced Security](https://learn.microsoft.com/en-us/users/jeancarlos-2960/achievements/d38tmrkj)  
+#### ![Configure Dependabot security updates on your GitHub](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg) [Configure Dependabot security updates on your GitHub](https://learn.microsoft.com/en-us/users/jeancarlos-2960/achievements/wmeymzrn)  
 
 
+### jeancarlosti github profile 
+![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+---
 ### jeancarlosti github profile 
 ![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 ---
